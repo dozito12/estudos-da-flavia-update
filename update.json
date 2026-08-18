@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "message":  "Plano intensivo ENCCEJA de 6 dias, simulados por matéria, redação guiada e revisão final.",
+    "version":  "1.1.1",
+    "message":  "Correção do atualizador: nesta vez, clique em Baixar, abra o instalador e feche o app antigo. Depois da versão 1.1.1, as próximas atualizações poderão ser instaladas pelo botão Atualizar agora.",
     "downloadUrl":  "https://github.com/dozito12/estudos-da-flavia-update/releases/latest/download/cliqueparainstalar.exe",
-    "notes":  "Plano intensivo ENCCEJA de 6 dias, simulados por matéria, redação guiada e revisão final.",
-    "releasedAt":  "2026-08-17T17:33:40-03:00"
+    "notes":  "Correção do atualizador: nesta vez, clique em Baixar, abra o instalador e feche o app antigo. Depois da versão 1.1.1, as próximas atualizações poderão ser instaladas pelo botão Atualizar agora.",
+    "releasedAt":  "2026-08-17T21:24:34-03:00"
 }
